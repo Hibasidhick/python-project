@@ -1,2 +1,2 @@
 class receptionist:
-        pass
+        def_ _
