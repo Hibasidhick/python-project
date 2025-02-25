@@ -1,2 +1,2 @@
 class employee:
-    pass
+    def _ _
